@@ -1,0 +1,7 @@
+*.pyc
+*.class
+*.txt
+*.log
+
+tmp/
+__pycache__/
